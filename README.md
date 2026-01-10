@@ -16,9 +16,10 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Movie Recommendation System  
-Personalized movie recommendations using collaborative & content-based filtering.  
-**Tech:** Python, Scikit-learn, Pandas, Streamlit  
+### 🔹 Image Classification System Using Convolutional Neural Networks
+Implemented a deep learning-based image classification system using CNN architectures. Applied data augmentation, hyperparameter tuning, and comparative model evaluation to enhance robustness and generalization.
+Tech Stack: Python, TensorFlow, Keras, OpenCV
+
 
 ### 🔹 Spam Email Classifier  
 NLP-based model to classify emails as spam or ham with high accuracy.  
@@ -28,9 +29,6 @@ NLP-based model to classify emails as spam or ham with high accuracy.
 Generates role-specific interview questions using AI logic.  
 **Tech:** Python, NLP  
 
-### 🔹 Apache Spark Data Processing  
-Large-scale data processing using RDDs and transformations.  
-**Tech:** Apache Spark, PySpark  
 
 ---
 
