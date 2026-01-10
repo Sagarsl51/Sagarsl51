@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm <Your Name>
 
-<!--
-**Sagarsl51/Sagarsl51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 📊 Aspiring Data Scientist | 🤖 AI & Big Data Enthusiast  
+🚀 Passionate about building data-driven solutions using ML & Big Data tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Programming:** Python, Java, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-learn  
+- **Machine Learning:** Classification, Recommendation Systems, NLP  
+- **Big Data:** Hadoop, Spark, Hive  
+- **Tools:** Git, GitHub, Streamlit  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Movie Recommendation System  
+Personalized movie recommendations using collaborative & content-based filtering.  
+**Tech:** Python, Scikit-learn, Pandas, Streamlit  
+
+### 🔹 Spam Email Classifier  
+NLP-based model to classify emails as spam or ham with high accuracy.  
+**Tech:** Python, NLP, Machine Learning  
+
+### 🔹 AI-Based Interview Question Generator  
+Generates role-specific interview questions using AI logic.  
+**Tech:** Python, NLP  
+
+### 🔹 Apache Spark Data Processing  
+Large-scale data processing using RDDs and transformations.  
+**Tech:** Apache Spark, PySpark  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning  
+- PySpark & Distributed Systems  
+- Data Structures & Algorithms  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+## 📬 Connect With Me
+- 📧 Email: sagar895187@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+
+⭐ If you like my work, consider starring my repositories!
