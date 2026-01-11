@@ -1,4 +1,4 @@
-# Hi 👋 I'm <SAGAR>
+# Hi 👋 I'm SAGAR S LINGADHALI
 
 🎓 MCA Student | 📊 Aspiring Data Scientist | 🤖 AI & Big Data Enthusiast  
 🚀 Passionate about building data-driven solutions using ML & Big Data tools
